@@ -32,4 +32,6 @@ There are a few files in utils:
 
 ![demo](./client/public/images/demo.gif)
 
-This guide should help you get started with the Gift List project. Happy coding, and may your name be on the nice list! 🎁🌲
+## Contributor
+
+Erik Williams 🎁🌲
